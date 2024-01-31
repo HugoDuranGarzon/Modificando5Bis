@@ -1,0 +1,17 @@
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\bin\Debug\Sergioteacher.Csharp04.Inputbox.exe.config
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\bin\Debug\Sergioteacher.Csharp04.Inputbox.exe
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\bin\Debug\Sergioteacher.Csharp04.Inputbox.pdb
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\Sergioteacher.Csharp04.Inputbox.csproj.AssemblyReference.cache
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\WindowInput.g.cs
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\App.g.cs
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\Sergioteacher.Csharp04.Inputbox_MarkupCompile.cache
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\Sergioteacher.Csharp04.Inputbox_MarkupCompile.lref
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\MainWindow.baml
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\WindowInput.baml
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\Sergioteacher.Csharp04.Inputbox.g.resources
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\Sergioteacher.Csharp04.Inputbox.Properties.Resources.resources
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\Sergioteacher.Csharp04.Inputbox.csproj.GenerateResource.cache
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\Sergioteacher.Csharp04.Inputbox.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\Sergioteacher.Csharp04.Inputbox.exe
+C:\Users\Administrador\Source\Repos\Sergioteacher.Csharp04.Inputbox\Sergioteacher.Csharp04.Inputbox\obj\Debug\Sergioteacher.Csharp04.Inputbox.pdb
